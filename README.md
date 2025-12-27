@@ -1,5 +1,137 @@
-# ljm-basketball-academy-web-platform
-Web platform built for LJM Basketball Academy to manage scheduling, inquiries, and announcements — designed with user testing and iterative UX improvements to support non-technical users such as parents and students.
 
 <img width="1161" height="641" alt="image" src="https://github.com/user-attachments/assets/fb7df51e-636c-4db9-ae90-f7bb1223a6bc" />
+
+# LJM Basketball Academy — Web Platform
+
+A responsive informational web platform built with **Next.js 14, React, and TypeScript** for the LJM Basketball Academy — a youth basketball training program operated between 2022 and 2024 in Seongnam, South Korea.
+
+The website was designed to help parents easily access program information, review announcements, check training schedules, and contact the academy.
+
+---
+
+## Project Purpose
+
+This project was created to provide:
+
+- A clean and accessible website for parents and students
+- Program information for different age groups
+- Real training schedule visibility
+- Contact and inquiry support
+- Public transparency through real parent review screenshots
+
+The platform prioritizes clarity, trust, and ease of use rather than marketing language or visual exaggeration.
+
+---
+
+## Key Features
+
+### Youth Training Program Pages
+- Elementary / Middle / High School program descriptions
+- Wheelchair basketball session information
+- Clear, beginner-friendly explanations
+
+### Announcements Page
+- Academy notices and activity records (2022–2023)
+- Free trial programs
+- Safety & training policy updates
+- Schedule adjustments
+
+### Schedule Page
+- Weekly training timetable
+- Facility-availability notices
+
+### Parent Review Screenshot Gallery
+- Six real review screenshots from Naver local business platform
+- Used to provide authentic social proof
+- Displayed in responsive gallery format
+
+### Contact Form (Email API Route)
+- Built using **Next.js App Router server actions**
+- Sends structured inquiry messages to staff email
+
+### Fully Responsive Layout
+- Mobile-first design
+- Tablet & desktop optimized
+- Accessible typography and spacing
+
+---
+
+## Tech Stack
+
+**Framework & Language**
+- Next.js 14 (App Router)
+- React
+- TypeScript
+
+**UI & Styling**
+- Tailwind CSS
+- Custom UI components
+- Responsive grid & layout system
+
+**Backend / API**
+- Next.js Route Handlers (`/app/api/contact/route.ts`)
+- Email request submission endpoint
+
+**Other**
+- Deployed as a static web app
+- Designed for lightweight browsing on mobile devices
+
+---
+
+## Project Structure
+
+app/
+├─ page.tsx # Home
+├─ announcements/ # Announcement records
+├─ schedule/ # Training schedule page
+├─ reviews/ # Review gallery (screenshot images)
+├─ contact/ # Inquiry page
+└─ api/contact/route.ts # Email submission API
+
+components/
+├─ navigation.tsx
+├─ footer.tsx
+├─ ui/* (shared UI components)
+
+public/images/
+├─ program photos
+└─ parent review screenshots
+
+
+---
+
+## Design Philosophy
+
+Rather than presenting a commercial “marketing website,”  
+this platform focuses on:
+
+- Honest representation of academy activities
+- Real parent feedback
+- Educational value for students
+- Safe and structured training environment
+
+The project reflects the academy’s original mission:
+
+> “To help students grow in both skill and character through basketball.”
+
+---
+
+## License
+
+This project is intended for **portfolio and archival purposes only**.
+
+The images and review screenshots belong to
+the original parents and students who participated in the academy.
+
+Commercial reuse is not permitted.
+
+---
+
+## Author
+
+**Jungmyung Lee**  
+Founder & Head Coach — LJM Basketball Academy  
+Developer — Web Platform Project
+
+
 
