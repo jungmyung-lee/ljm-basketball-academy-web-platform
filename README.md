@@ -80,22 +80,22 @@ The platform prioritizes clarity, trust, and ease of use rather than marketing l
 
 ## Project Structure
 
-app/
-├─ page.tsx # Home
-├─ announcements/ # Announcement records
-├─ schedule/ # Training schedule page
-├─ reviews/ # Review gallery (screenshot images)
-├─ contact/ # Inquiry page
-└─ api/contact/route.ts # Email submission API
+app/  
+├─ page.tsx # Home  
+├─ announcements/ # Announcement records  
+├─ schedule/ # Training schedule page  
+├─ reviews/ # Review gallery (screenshot images)  
+├─ contact/ # Inquiry page  
+└─ api/contact/route.ts # Email submission API  
 
-components/
-├─ navigation.tsx
-├─ footer.tsx
-├─ ui/* (shared UI components)
+components/  
+├─ navigation.tsx  
+├─ footer.tsx  
+├─ ui/* (shared UI components)  
 
-public/images/
-├─ program photos
-└─ parent review screenshots
+public/images/  
+├─ program photos  
+└─ parent review screenshots  
 
 
 ---
