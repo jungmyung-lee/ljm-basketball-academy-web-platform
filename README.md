@@ -9,6 +9,24 @@ The website was designed to help parents easily access program information, revi
 
 ---
 
+## Table of Contents
+
+- [Project Purpose](#project-purpose)
+- [Key Features](#key-features)
+  - [Youth Training Program Pages](#youth-training-program-pages)
+  - [Announcements Page](#announcements-page)
+  - [Schedule Page](#schedule-page)
+  - [Parent Review Screenshot Gallery](#parent-review-screenshot-gallery)
+  - [Contact Form (Email API Route)](#contact-form-email-api-route)
+  - [Fully Responsive Layout](#fully-responsive-layout)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Design Philosophy](#design-philosophy)
+- [License](#license)
+- [Author](#author)
+
+---
+
 ## Project Purpose
 
 This project was created to provide:
