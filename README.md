@@ -36,9 +36,17 @@ The platform prioritizes clarity, trust, and ease of use rather than marketing l
 - Safety & training policy updates
 - Schedule adjustments
 
+<img width="1183" height="742" alt="image" src="https://github.com/user-attachments/assets/ee833d56-2e24-48e4-90bf-bf3d70756852" />
+<img width="978" height="605" alt="image" src="https://github.com/user-attachments/assets/73cad76d-5e6f-448f-ad4d-f0868c1bd5ae" />
+
+
 ### Schedule Page
 - Weekly training timetable
 - Facility-availability notices
+
+<img width="1017" height="728" alt="image" src="https://github.com/user-attachments/assets/249b55b2-cf13-4776-90ae-478a5b4f717a" />
+<img width="962" height="646" alt="image" src="https://github.com/user-attachments/assets/de5c0547-ed79-41e3-9cac-0b49a0b31134" />
+
 
 ### Parent Review Screenshot Gallery
 - Six real review screenshots from Naver local business platform
