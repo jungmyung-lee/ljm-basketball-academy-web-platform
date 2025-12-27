@@ -1,5 +1,5 @@
 
-<img width="1161" height="641" alt="image" src="https://github.com/user-attachments/assets/fb7df51e-636c-4db9-ae90-f7bb1223a6bc" />
+<img width="961" height="541" alt="image" src="https://github.com/user-attachments/assets/fb7df51e-636c-4db9-ae90-f7bb1223a6bc" />
 
 # LJM Basketball Academy — Web Platform
 
