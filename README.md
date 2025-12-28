@@ -1,35 +1,59 @@
-
 # LJM Basketball Academy — Web Platform
 
-A responsive informational web platform built with **Next.js 14, React, and TypeScript** for the LJM Basketball Academy — a youth basketball training program operated between 2022 and 2024 in Seongnam, South Korea.
+A responsive informational web platform built with **Next.js (App Router), React, and TypeScript** for the LJM Basketball Academy — a youth and community basketball program operated in Seongnam, South Korea.
 
-The website was designed to help parents easily access program information, review announcements, check training schedules, and contact the academy.
+The website was designed to help parents and participants:
 
-<img width="1021" height="670" alt="image" src="https://github.com/user-attachments/assets/b20d695d-46a8-4d52-b527-bb9f0cdc5edf" />
-<img width="1025" height="684" alt="image" src="https://github.com/user-attachments/assets/68f24281-8779-45f9-b94f-522078753fd3" />
+- access program information
+- read announcements and activity records
+- check class schedules
+- view authentic parent review screenshots
+- submit inquiries through the contact form
+- receive support through a **chat counseling channel**
 
-<img width="1020" height="685" alt="image" src="https://github.com/user-attachments/assets/75e142ea-9b03-4470-933f-fbb3507910ec" />
-
-
-
+The platform prioritizes **transparency, accessibility, and community trust** rather than a commercial marketing tone.
 
 ---
 
 ## Table of Contents
 
+- [Overview](#overview)
 - [Project Purpose](#project-purpose)
+- [Problem](#-problem--barriers-to-participation-across-diverse-social--living-environments)
+- [Solution](#-solution--accessibility-centered-psychologically-supportive-and-inclusive-program-design)
+- [Validation](#-validation--evidence-based-operational--community-trust-indicators)
+- [Social Impact](#-social-impact--participation-access-inclusion-and-community-level-reach)
 - [Key Features](#key-features)
-  - [Youth Training Program Pages](#youth-training-program-pages)
-  - [Announcements Page](#announcements-page)
-  - [Schedule Page](#schedule-page)
-  - [Parent Review Screenshot Gallery](#parent-review-screenshot-gallery)
-  - [Contact Form (Email API Route)](#contact-form-email-api-route)
-  - [Fully Responsive Layout](#fully-responsive-layout)
+  - [Training Program Pages](#training-program-pages)
+  - [Announcements](#announcements)
+  - [Class Schedule Page](#class-schedule-page)
+  - [Parent Review](#parent-review)
+  - [Contact Form](#contact-form)
+  - [Chat Counseling Channel](#chat-counseling-channel)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Design Philosophy](#design-philosophy)
-- [License](#license)
 - [Author](#author)
+
+---
+
+## Overview
+
+This platform was developed as both:
+
+- a **public-facing informational website** for parents and participants, and  
+- an **operational archive documenting real program activities, records, and feedback**.
+
+Rather than functioning as a promotional site, the platform emphasizes:
+
+- clarity and accessibility of program information
+- transparency in announcements and class schedules
+- community trust through authentic parent feedback
+- participant well-being through a counseling communication channel
+
+The project reflects the academy’s educational mission to support:
+
+> participation, belonging, personal growth, and community connection.
 
 ---
 
@@ -37,131 +61,209 @@ The website was designed to help parents easily access program information, revi
 
 This project was created to provide:
 
-- A clean and accessible website for parents and students
-- Program information for different age groups
-- Real training schedule visibility
-- Contact and inquiry support
-- Public transparency through real parent review screenshots
+- a clear, parent-friendly informational website
+- accessible program descriptions across age groups
+- public visibility of class schedules and announcements
+- authentic review transparency
+- a structured inquiry channel
+- and a **chat counseling channel** to support participants experiencing adaptation or emotional challenges
 
-The platform prioritizes clarity, trust, and ease of use rather than marketing language or visual exaggeration.
+The platform serves not only as a website, but as an **operational record and community support tool**.
+
+---
+
+# Problem — Barriers to Participation Across Diverse Social & Living Environments
+
+Participants came from a wide range of **family, economic, and personal living environments**, which created differences in access to community sports activities and extracurricular learning opportunities.
+
+Some participants experienced:
+
+- difficulty adapting to class or activity environments  
+- stress related to peer or social relationships  
+- emotional strain associated with personal or family situations  
+
+In addition, there were **accessibility gaps related to physical conditions and mobility assistance use**. Across both youth and adult age groups — including wheelchair users — available options for inclusive community sports programs were limited, and the number of **qualified wheelchair-basketball coaches in the region was extremely scarce**.
+
+> This was not an individual ability issue —  
+> it was a structural limitation of program infrastructure,
+> specialized coaching availability, and participation choice.
+
+---
+
+# Solution — Accessibility-Centered, Psychologically Supportive, and Inclusive Program Design
+
+### 1) Age-Group Programs + Free Class Track
+
+- elementary / middle / high school programs
+- **Free Class opportunities for financially-constrained / under-resourced participants**
+
+Designed not as charity, but to:
+
+- reduce financial barriers
+- expand participation access
+- mitigate opportunity gaps in community sports engagement
+
+---
+
+### 2) Inclusive Sports Implementation — Wheelchair Basketball Sessions
+
+- participation across both **youth and adult age groups**
+- shared community learning environment
+- emphasized **belonging, collaboration, and relational growth**
+
+---
+
+### 3) Chat Counseling Channel
+
+Designed to support participants facing:
+
+- class adaptation difficulties
+- emotional or family concerns
+- peer or social worries
+
+Roles of the channel:
+
+- provided a safe communication pathway outside of class time
+- reduced psychological burden
+- strengthened trust between participants and staff
+
+This channel contributed to **improved emotional stability and healthier class adaptation experiences**.
+
+---
+
+### 4) Human-Centered Technical Design
+
+The platform was developed by balancing:
+
+- technical implementation efficiency
+- with user empathy and accessibility
+
+so that non-technical users could engage with the platform intuitively while maintaining communication grounded in:
+
+- clarity
+- safety
+- and trust
+
+---
+
+# Validation — Evidence-Based Operational & Community Trust Indicators
+
+- Archived operational records and program announcements (2022–2024)
+- Published authentic parent feedback through:
+  - Naver Local Platform
+  - Danggeun (local community marketplace) community channel
+- Accumulated **140+ combined platform reviews**
+  (Naver Smart Place + Danggeun community)
+- Sustained participation observed among recurring students and families,
+  particularly within the Free Class program
+- Chat counseling channel contributed to:
+  - improved class adaptation
+  - emotional stability
+  - relational and social support outcomes
+
+> Validation focuses on **operational credibility, sustained engagement,
+> and consistent qualitative feedback over time**.
+
+---
+
+# Social Impact — Participation Access, Inclusion, and Community-Level Reach
+
+- Founded and managed a youth basketball academy serving **700+ cumulative participants**
+  across multiple cohorts, overseeing program design, staff coordination, and parent communication
+
+- Expanded participation access through Free Class programs for
+  financially-constrained / under-resourced participants, helping reduce financial barriers
+  to community sports engagement
+
+- Promoted inclusive participation by operating wheelchair-basketball sessions
+  across youth and adult age groups — addressing the regional shortage of
+  specialized coaching resources and accessible sports programs
+
+- The project’s values and activities were further amplified through
+  **community collaboration**:
+  - a feature video was produced in coordination with Danggeun
+  - the content surpassed **170,000+ views on YouTube**
+  - demonstrating meaningful **public resonance and community-level impact**
 
 ---
 
 ## Key Features
 
-### Youth Training Program Pages
-- Elementary / Middle / High School program descriptions
-- Wheelchair basketball session information
-- Clear, beginner-friendly explanations
+### Training Program Pages
+Pages introducing program offerings across elementary, middle, and high school groups, including a **Free Class participation track** designed to reduce financial barriers and expand access for under-resourced participants.
 
-### Announcements Page
-- Academy notices and activity records (2022–2023)
-- Free trial programs
-- Safety & training policy updates
-- Schedule adjustments
+---
 
-<img width="1015" height="688" alt="image" src="https://github.com/user-attachments/assets/76785e04-d4bd-4f1d-8d20-1db1b8d134f7" />
+### Announcements
+A centralized archive of academy notices and activity records from real operational periods, improving program transparency and allowing parents to track updates and history over time.
 
+---
 
+### Class Schedule Page
+Provides weekly class schedules and facility availability information so that families can easily confirm training times and participation logistics.
 
-### Schedule Page
-- Weekly training timetable
-- Facility-availability notices
-- 
+---
 
-<img width="1022" height="687" alt="image" src="https://github.com/user-attachments/assets/5b3ec11f-d556-4955-9ce9-500b4e2affac" />
+### Parent Review
+Showcases authentic parent feedback through **review screenshot galleries**, reflecting real program perception and trust from the local community.
 
+---
 
-### Riviews
-- real review screenshots from Naver local business platform
-- Used to provide authentic social proof
-- Displayed in responsive gallery format
+### Contact Form
+A structured inquiry form connected to a server API route, enabling parents to submit program questions or communication requests in an organized format.
 
-<img width="1009" height="734" alt="image" src="https://github.com/user-attachments/assets/9b7de2e7-644f-4623-966d-7e8a4eafac9b" />
+---
 
+### Chat Counseling Channel
+A communication channel for participants who experience:
 
-### Contact Form (Email API Route)
-- Built using **Next.js App Router server actions**
-- Sends structured inquiry messages to staff email
+- class adaptation difficulties  
+- emotional or family-related concerns  
+- peer or social challenges  
 
-<img width="1016" height="740" alt="image" src="https://github.com/user-attachments/assets/4351d340-bb54-4207-bee1-83f9f11a29ff" />
-
-
-### Fully Responsive Layout
-- Mobile-first design
-- Tablet & desktop optimized
-- Accessible typography and spacing
+Designed to support **emotional stability, adaptation guidance, and trust-based communication** between participants and staff.
 
 ---
 
 ## Tech Stack
 
-**Framework & Language**
-- Next.js 14 (App Router)
+- Next.js (App Router)
 - React
 - TypeScript
-
-**UI & Styling**
 - Tailwind CSS
-- Custom UI components
-- Responsive grid & layout system
-
-**Backend / API**
-- Next.js Route Handlers (`/app/api/contact/route.ts`)
-- Email request submission endpoint
-
-**Other**
-- Deployed as a static web app
-- Designed for lightweight browsing on mobile devices
+- Resend Email API
+- Mobile-first responsive UI
 
 ---
 
 ## Project Structure
 
 app/  
-├─ page.tsx # Home  
-├─ announcements/ # Announcement records  
-├─ schedule/ # Training schedule page  
-├─ reviews/ # Review gallery (screenshot images)  
-├─ contact/ # Inquiry page  
-└─ api/contact/route.ts # Email submission API  
+├─ announcements/  
+├─ schedule/  
+├─ reviews/  
+├─ contact/  
+└─ api/contact/  
 
 components/  
 ├─ navigation.tsx  
 ├─ footer.tsx  
-├─ ui/* (shared UI components)  
+└─ ui/  
 
 public/images/  
-├─ program photos  
-└─ parent review screenshots  
-
+└─ review screenshots  
 
 ---
 
 ## Design Philosophy
 
-Rather than presenting a commercial “marketing website,”  
-this platform focuses on:
+This platform was created not as a marketing website, but as a:
 
-- Honest representation of academy activities
-- Real parent feedback
-- Educational value for students
-- Safe and structured training environment
+- transparent operational archive
+- community participation space
+- and accessibility-focused service platform
 
-The project reflects the academy’s original mission:
-
-> “To help students grow in both skill and character through basketball.”
-
----
-
-## License
-
-This project is intended for **portfolio and archival purposes only**.
-
-The images and review screenshots belong to
-the original parents and students who participated in the academy.
-
-Commercial reuse is not permitted.
+Its goal was not only to support skill development, but to create an environment where participants could grow in **confidence, character, and community connection**.
 
 ---
 
@@ -170,6 +272,4 @@ Commercial reuse is not permitted.
 **Jungmyung Lee**  
 Founder & Head Coach — LJM Basketball Academy  
 Developer — Web Platform Project
-
-
 
