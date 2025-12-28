@@ -61,7 +61,7 @@ export default function ReviewsPage() {
             </p>
 
             <div className="mx-auto max-w-4xl space-y-6">
-              {/* Sample Review Card 1 */}
+              
               <Card className="border-2">
                 <CardContent className="p-6">
                   <div className="mb-4 flex flex-wrap items-center gap-3">
@@ -91,7 +91,7 @@ export default function ReviewsPage() {
                 </CardContent>
               </Card>
 
-              {/* Sample Review Card 2 */}
+              
               <Card className="border-2">
                 <CardContent className="p-6">
                   <div className="mb-4 flex flex-wrap items-center gap-3">
@@ -120,7 +120,7 @@ export default function ReviewsPage() {
                 </CardContent>
               </Card>
 
-              {/* Sample Review Card 3 */}
+              
               <Card className="border-2">
                 <CardContent className="p-6">
                   <div className="mb-4 flex flex-wrap items-center gap-3">
