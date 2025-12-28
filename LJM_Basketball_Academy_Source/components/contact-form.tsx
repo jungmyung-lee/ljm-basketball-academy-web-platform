@@ -50,7 +50,7 @@ export function ContactForm() {
         ;(e.target as HTMLFormElement).reset()
       }, 3000)
     } catch (err) {
-      console.error("[v0] Form submission error:", err)
+      
       setError("Failed to send message. Please try again or contact us directly.")
     } finally {
       setIsSubmitting(false)
