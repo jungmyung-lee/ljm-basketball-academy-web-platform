@@ -9,7 +9,6 @@ export async function POST(request: Request) {
     const resendApiKey = process.env.RESEND_API_KEY
 
     if (!resendApiKey) {
-      console.error("[v0] RESEND_API_KEY is not configured")
       return NextResponse.json({ error: "Email service not configured" }, { status: 500 })
     }
 
@@ -37,13 +36,12 @@ export async function POST(request: Request) {
 
     if (!emailResponse.ok) {
       const errorData = await emailResponse.json()
-      console.error("[v0] Resend API error:", errorData)
+      
       return NextResponse.json({ error: "Failed to send email" }, { status: 500 })
     }
 
     return NextResponse.json({ success: true })
   } catch (error) {
-    console.error("[v0] Error processing contact form:", error)
     return NextResponse.json({ error: "Internal server error" }, { status: 500 })
   }
 }
