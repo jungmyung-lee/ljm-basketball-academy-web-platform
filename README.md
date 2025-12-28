@@ -191,6 +191,9 @@ The platform was developed by balancing:
 ### Training Program Pages
 Pages introducing program offerings across elementary, middle, and high school groups, including a **Free Class participation track** designed to reduce financial barriers and expand access for under-resourced participants.
 
+<img src="./home1.gif" width="66%" />
+
+
 ---
 
 ### Announcements
