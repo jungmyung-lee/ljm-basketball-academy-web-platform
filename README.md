@@ -145,12 +145,6 @@ The platform was developed by balancing:
 - technical implementation efficiency
 - with user empathy and accessibility
 
-so that non-technical users could engage with the platform intuitively while maintaining communication grounded in:
-
-- clarity
-- safety
-- and trust
-
 ---
 
 # Validation — Evidence-Based Operational & Community Trust Indicators
@@ -159,7 +153,7 @@ so that non-technical users could engage with the platform intuitively while mai
 - Published authentic parent feedback through:
   - Naver Local Platform
   - Danggeun (local community marketplace) community channel
-- Accumulated **140+ combined platform reviews**
+- Accumulated **150+ combined platform reviews**
   (Naver Smart Place + Danggeun community)
 - Sustained participation observed among recurring students and families,
   particularly within the Free Class program
