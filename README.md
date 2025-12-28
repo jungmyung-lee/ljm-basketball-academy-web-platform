@@ -197,12 +197,16 @@ A centralized archive of academy notices and activity records from real operatio
 
 <img width="1015" height="688" alt="image" src="https://github.com/user-attachments/assets/76785e04-d4bd-4f1d-8d20-1db1b8d134f7" />
 
+
 ---
+
 
 ### Class Schedule Page
 Provides weekly class schedules and facility availability information so that families can easily confirm training times and participation logistics.
 
 <img width="1022" height="687" alt="image" src="https://github.com/user-attachments/assets/5b3ec11f-d556-4955-9ce9-500b4e2affac" /><img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/04fceaeb-c199-408e-abd7-8e0fced21a6b" />
+
+---
 
 ---
 
