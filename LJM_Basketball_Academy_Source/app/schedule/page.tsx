@@ -4,7 +4,6 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Calendar, Clock, MapPin } from "lucide-react"
 
-// Sample schedule data - in a real app, this would come from a database
 const scheduleByDay = {
   Monday: [
     {
