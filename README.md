@@ -195,9 +195,7 @@ Pages introducing program offerings across elementary, middle, and high school g
 ### Announcements
 A centralized archive of academy notices and activity records from real operational periods, improving program transparency and allowing parents to track updates and history over time.
 
-<img width="1015" height="688" alt="image" src="https://github.com/user-attachments/assets/76785e04-d4bd-4f1d-8d20-1db1b8d134f7" />
-
-![Announcement](./announcement.gif)
+<img src="./announcement.gif" width="66%" />
 
 ---
 
@@ -205,29 +203,21 @@ A centralized archive of academy notices and activity records from real operatio
 ### Class Schedule Page
 Provides weekly class schedules and facility availability information so that families can easily confirm training times and participation logistics.
 
-<img width="1022" height="687" alt="image" src="https://github.com/user-attachments/assets/5b3ec11f-d556-4955-9ce9-500b4e2affac" /><img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/04fceaeb-c199-408e-abd7-8e0fced21a6b" />
-
-![Schedule](./schedule.gif)
-
----
+<img src="./schedule.gif" width="66%" />
 
 ---
 
 ### Parent Review
 Showcases authentic parent feedback through **review screenshot galleries**, reflecting real program perception and trust from the local community.
 
-<img width="1009" height="734" alt="image" src="https://github.com/user-attachments/assets/9b7de2e7-644f-4623-966d-7e8a4eafac9b" />
-
-![Review](./review.gif)
+<img src="./review.gif" width="66%" />
 
 ---
 
 ### Contact Form
 A structured inquiry form connected to a server API route, enabling parents to submit program questions or communication requests in an organized format.
 
-<img width="1016" height="740" alt="image" src="https://github.com/user-attachments/assets/4351d340-bb54-4207-bee1-83f9f11a29ff" />
-
-![Contact](./contact.gif)
+<img src="./contact.gif" width="66%" />
 
 ---
 
@@ -243,10 +233,10 @@ Designed to support **emotional stability, adaptation guidance, and trust-based 
 ---
 
 ### Chat Counseling — Send
-![Chat 1](./chat1.gif)
+<img src="./chat1.gif" width="66%" />
 
 ### Chat Counseling — Receive
-![Chat 2](./chat2.gif)
+<img src="./chat2.gif" width="66%" />
 
 ---
 
