@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "LJM Basketball Academy | Building Champions On & Off the Court",
   description:
     "Join our youth basketball program focused on skill development, teamwork, and character building for young athletes in our community.",
-  generator: "v0.app",
+  
   icons: {
     icon: [
       {
