@@ -17,7 +17,6 @@ The platform prioritizes **transparency, accessibility, and community trust** ra
 
 <img width="1025" height="684" alt="image" src="https://github.com/user-attachments/assets/68f24281-8779-45f9-b94f-522078753fd3" />
 
-<img width="468" height="119" alt="image" src="https://github.com/user-attachments/assets/641b6c26-d64d-48d1-99f9-fa5f6bb62d03" />
 
 
 ---
