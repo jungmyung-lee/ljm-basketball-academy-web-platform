@@ -79,7 +79,7 @@ The platform serves not only as a website, but as an **operational record and co
 
 ---
 
-# Problem — Barriers to Participation Across Diverse Social & Living Environments
+## Problem
 
 Participants came from a wide range of **family, economic, and personal living environments**, which created differences in access to community sports activities and extracurricular learning opportunities.
 
@@ -97,7 +97,7 @@ In addition, there were **accessibility gaps related to physical conditions and 
 
 ---
 
-# Solution — Accessibility-Centered, Psychologically Supportive, and Inclusive Program Design
+## Solution
 
 ### 1) Age-Group Programs + Free Class Track
 
@@ -147,7 +147,7 @@ The platform was developed by balancing:
 
 ---
 
-# Validation — Evidence-Based Operational & Community Trust Indicators
+## Validation
 
 - Archived operational records and program announcements (2021–2024)
 - Published authentic parent feedback through:
@@ -167,7 +167,7 @@ The platform was developed by balancing:
 
 ---
 
-# Social Impact — Participation Access, Inclusion, and Community-Level Reach
+## Social Impact
 
 - Founded and managed a youth basketball academy serving **700+ cumulative participants**
   across multiple cohorts, overseeing program design, staff coordination, and parent communication
