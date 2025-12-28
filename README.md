@@ -155,7 +155,7 @@ so that non-technical users could engage with the platform intuitively while mai
 
 # Validation — Evidence-Based Operational & Community Trust Indicators
 
-- Archived operational records and program announcements (2022–2024)
+- Archived operational records and program announcements (2021–2024)
 - Published authentic parent feedback through:
   - Naver Local Platform
   - Danggeun (local community marketplace) community channel
