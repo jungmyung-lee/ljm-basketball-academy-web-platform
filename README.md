@@ -35,9 +35,11 @@ The platform prioritizes **transparency, accessibility, and community trust** ra
   - [Contact Form](#contact-form)
   - [Chat Counseling Channel](#chat-counseling-channel)
 - [Tech Stack](#tech-stack)
+- [API Integrations](#api-integrations)
 - [Project Structure](#project-structure)
 - [Design Philosophy](#design-philosophy)
 - [Author](#author)
+
 
 
 ---
@@ -220,6 +222,8 @@ Showcases authentic parent feedback through **review screenshot galleries**, ref
 
 ### Contact Form
 A structured inquiry form connected to a server API route, enabling parents to submit program questions or communication requests in an organized format.
+This feature is implemented using the **Resend Email API**, which delivers structured inquiry messages to the academy email account through a Next.js server route.
+
 
 <img src="./contact.gif" width="66%" />
 
@@ -232,7 +236,8 @@ A communication channel for participants who experience:
 - emotional or family-related concerns  
 - peer or social challenges  
 
-Designed to support **emotional stability, adaptation guidance, and trust-based communication** between participants and staff.
+Designed to support emotional stability, adaptation guidance, and trust-based communication between participants and staff.
+The counseling channel is operated using the **Tawk Chat API**, enabling secure real-time communication outside of class time.
 
 ---
 
@@ -250,10 +255,27 @@ Designed to support **emotional stability, adaptation guidance, and trust-based 
 - React
 - TypeScript
 - Tailwind CSS
-- Resend Email API
+- Resend, Tawk Email API
 - Mobile-first responsive UI
 
 ---
+
+## API Integrations
+
+This platform integrates two production-level APIs to support real operational functions:
+
+### 1) Resend Email API — Contact Form
+
+Used to process structured parent inquiries submitted through the contact form.
+
+- sends inquiry details to the academy email account
+- ensures reliable message delivery outside of chat channels
+- supports organized, record-based communication
+
+The API is connected through a **Next.js App Router server route**.
+
+
+
 
 ## Project Structure
 
