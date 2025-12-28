@@ -1,11 +1,17 @@
 
-<img width="961" height="541" alt="image" src="https://github.com/user-attachments/assets/fb7df51e-636c-4db9-ae90-f7bb1223a6bc" />
-
 # LJM Basketball Academy — Web Platform
 
 A responsive informational web platform built with **Next.js 14, React, and TypeScript** for the LJM Basketball Academy — a youth basketball training program operated between 2022 and 2024 in Seongnam, South Korea.
 
 The website was designed to help parents easily access program information, review announcements, check training schedules, and contact the academy.
+
+<img width="1021" height="670" alt="image" src="https://github.com/user-attachments/assets/b20d695d-46a8-4d52-b527-bb9f0cdc5edf" />
+<img width="1025" height="684" alt="image" src="https://github.com/user-attachments/assets/68f24281-8779-45f9-b94f-522078753fd3" />
+
+<img width="1020" height="685" alt="image" src="https://github.com/user-attachments/assets/75e142ea-9b03-4470-933f-fbb3507910ec" />
+
+
+
 
 ---
 
@@ -54,10 +60,7 @@ The platform prioritizes clarity, trust, and ease of use rather than marketing l
 - Safety & training policy updates
 - Schedule adjustments
 
-<img width="780" height="489"
-     src="https://github.com/user-attachments/assets/ee833d56-2e24-48e4-90bf-bf3d70756852" />
-<img width="646" height="399"
-     src="https://github.com/user-attachments/assets/73cad76d-5e6f-448f-ad4d-f0868c1bd5ae" />
+<img width="1015" height="688" alt="image" src="https://github.com/user-attachments/assets/76785e04-d4bd-4f1d-8d20-1db1b8d134f7" />
 
 
 
@@ -65,22 +68,24 @@ The platform prioritizes clarity, trust, and ease of use rather than marketing l
 - Weekly training timetable
 - Facility-availability notices
 - 
-<img width="671" height="480"
-     src="https://github.com/user-attachments/assets/249b55b2-cf13-4776-90ae-478a5b4f717a" />
 
-<img width="634" height="426"
-     src="https://github.com/user-attachments/assets/de5c0547-ed79-41e3-9cac-0b49a0b31134" />
+<img width="1022" height="687" alt="image" src="https://github.com/user-attachments/assets/5b3ec11f-d556-4955-9ce9-500b4e2affac" />
 
 
-
-### Parent Review Screenshot Gallery
-- Six real review screenshots from Naver local business platform
+### Riviews
+- real review screenshots from Naver local business platform
 - Used to provide authentic social proof
 - Displayed in responsive gallery format
+
+<img width="1009" height="734" alt="image" src="https://github.com/user-attachments/assets/9b7de2e7-644f-4623-966d-7e8a4eafac9b" />
+
 
 ### Contact Form (Email API Route)
 - Built using **Next.js App Router server actions**
 - Sends structured inquiry messages to staff email
+
+<img width="1016" height="740" alt="image" src="https://github.com/user-attachments/assets/4351d340-bb54-4207-bee1-83f9f11a29ff" />
+
 
 ### Fully Responsive Layout
 - Mobile-first design
