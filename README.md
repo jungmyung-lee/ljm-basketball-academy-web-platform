@@ -13,6 +13,13 @@ The website was designed to help parents and participants:
 
 The platform prioritizes **transparency, accessibility, and community trust** rather than a commercial marketing tone.
 
+<img width="1021" height="670" alt="image" src="https://github.com/user-attachments/assets/b20d695d-46a8-4d52-b527-bb9f0cdc5edf" />
+
+<img width="1025" height="684" alt="image" src="https://github.com/user-attachments/assets/68f24281-8779-45f9-b94f-522078753fd3" />
+
+<img width="468" height="119" alt="image" src="https://github.com/user-attachments/assets/641b6c26-d64d-48d1-99f9-fa5f6bb62d03" />
+
+
 ---
 
 ## Table of Contents
@@ -197,20 +204,28 @@ Pages introducing program offerings across elementary, middle, and high school g
 ### Announcements
 A centralized archive of academy notices and activity records from real operational periods, improving program transparency and allowing parents to track updates and history over time.
 
+<img width="1015" height="688" alt="image" src="https://github.com/user-attachments/assets/76785e04-d4bd-4f1d-8d20-1db1b8d134f7" />
+
 ---
 
 ### Class Schedule Page
 Provides weekly class schedules and facility availability information so that families can easily confirm training times and participation logistics.
+
+<img width="1022" height="687" alt="image" src="https://github.com/user-attachments/assets/5b3ec11f-d556-4955-9ce9-500b4e2affac" /><img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/04fceaeb-c199-408e-abd7-8e0fced21a6b" />
 
 ---
 
 ### Parent Review
 Showcases authentic parent feedback through **review screenshot galleries**, reflecting real program perception and trust from the local community.
 
+<img width="1009" height="734" alt="image" src="https://github.com/user-attachments/assets/9b7de2e7-644f-4623-966d-7e8a4eafac9b" />
+
 ---
 
 ### Contact Form
 A structured inquiry form connected to a server API route, enabling parents to submit program questions or communication requests in an organized format.
+
+<img width="1016" height="740" alt="image" src="https://github.com/user-attachments/assets/4351d340-bb54-4207-bee1-83f9f11a29ff" />
 
 ---
 
