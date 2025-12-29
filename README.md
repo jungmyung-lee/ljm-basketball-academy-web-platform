@@ -7,7 +7,6 @@ The website was designed to help parents and participants:
 - access program information
 - read announcements and activity records
 - check class schedules
-- view authentic parent review screenshots
 - submit inquiries through the contact form
 - receive support through a **chat counseling channel**
 
@@ -31,7 +30,6 @@ The platform prioritizes **transparency, accessibility, and community trust** ra
   - [Training Program Pages](#training-program-pages)
   - [Announcements](#announcements)
   - [Class Schedule Page](#class-schedule-page)
-  - [Parent Review](#parent-review)
   - [Contact Form](#contact-form)
   - [Chat Counseling Channel](#chat-counseling-channel)
 - [Tech Stack](#tech-stack)
@@ -56,7 +54,6 @@ Rather than functioning as a promotional site, the platform emphasizes:
 
 - clarity and accessibility of program information
 - transparency in announcements and class schedules
-- community trust through authentic parent feedback
 - participant well-being through a counseling communication channel
 
 The project reflects the academy’s educational mission to support:
@@ -71,8 +68,7 @@ This project was created to provide:
 
 - a clear, parent-friendly informational website
 - accessible program descriptions across age groups
-- public visibility of class schedules and announcements
-- authentic review transparency
+- public visibility of class schedules and announcementsy
 - a structured inquiry channel
 - and a **chat counseling channel** to support participants experiencing adaptation or emotional challenges
 
@@ -154,8 +150,8 @@ The platform was developed by balancing:
 - Published authentic parent feedback through:
   - Naver Local Platform
   - Danggeun (local community marketplace) community channel
-- Accumulated **150+ combined platform reviews**
-  (Naver Smart Place + Danggeun community)
+**-Accumulated 150+ combined platform reviews**
+(Naver Smart Place + Danggeun community)
 - Sustained participation observed among recurring students and families,
   particularly within the Free Class program
 - Chat counseling channel contributed to:
@@ -211,13 +207,6 @@ A centralized archive of academy notices and activity records from real operatio
 Provides weekly class schedules and facility availability information so that families can easily confirm training times and participation logistics.
 
 <img src="./schedule.gif" width="66%" />
-
----
-
-### Parent Review
-Showcases authentic parent feedback through **review screenshot galleries**, reflecting real program perception and trust from the local community.
-
-<img src="./review.gif" width="66%" />
 
 ---
 
@@ -283,17 +272,12 @@ The API is connected through a **Next.js App Router server route**.
 app/  
 ├─ announcements/  
 ├─ schedule/  
-├─ reviews/  
 ├─ contact/  
 └─ api/contact/  
 
 components/  
-├─ navigation.tsx  
 ├─ footer.tsx  
 └─ ui/  
-
-public/images/  
-└─ review screenshots  
 
 ---
 
