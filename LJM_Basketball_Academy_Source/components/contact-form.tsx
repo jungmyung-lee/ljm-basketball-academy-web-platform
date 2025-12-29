@@ -50,7 +50,7 @@ export function ContactForm() {
         ;(e.target as HTMLFormElement).reset()
       }, 3000)
     } catch (err) {
-      console.error("[v0] Form submission error:", err)
+      console.error("Form submission error:", err)
       setError("메시지 전송에 실패했습니다. 다시 시도하시거나 직접 연락 주시기 바랍니다.")
     } finally {
       setIsSubmitting(false)
