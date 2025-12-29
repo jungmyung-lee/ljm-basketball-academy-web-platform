@@ -48,7 +48,7 @@ The platform prioritizes **transparency, accessibility, and community trust** ra
 This platform was developed as both:
 
 - a **public-facing informational website** for parents and participants, and  
-- an **operational archive documenting real program activities, records, and feedback**.
+- an **operational archive documenting real program activities, records, and updates**.
 
 Rather than functioning as a promotional site, the platform emphasizes:
 
@@ -68,7 +68,7 @@ This project was created to provide:
 
 - a clear, parent-friendly informational website
 - accessible program descriptions across age groups
-- public visibility of class schedules and announcementsy
+- public visibility of class schedules and announcements
 - a structured inquiry channel
 - and a **chat counseling channel** to support participants experiencing adaptation or emotional challenges
 
@@ -146,21 +146,15 @@ The platform was developed by balancing:
 
 ## Validation
 
-- Archived operational records and program announcements (2021–2024)
-- Published authentic parent feedback through:
-  - Naver Local Platform
-  - Danggeun (local community marketplace) community channel
-**-Accumulated 150+ combined platform reviews**
-(Naver Smart Place + Danggeun community)
+- Archived operational records and program announcements (2021–2024)  
+- Accumulated **150+ publicly documented community reviews**
+  (Naver Smart Place + Danggeun community)
 - Sustained participation observed among recurring students and families,
   particularly within the Free Class program
-- Chat counseling channel contributed to:
+- **Chat counseling** channel contributed to:
   - improved class adaptation
   - emotional stability
   - relational and social support outcomes
-
-> Validation focuses on **operational credibility, sustained engagement,
-> and consistent qualitative feedback over time**.
 
 ---
 
