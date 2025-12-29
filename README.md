@@ -12,8 +12,7 @@ The website was designed to help parents and participants:
 
 The platform prioritizes **transparency, accessibility, and community trust** rather than a commercial marketing tone.
 
-
-
+<img width="1180" height="528" alt="image" src="https://github.com/user-attachments/assets/90fff905-9daf-4b1d-bfd5-9ee10c8cc49e" />
 
 
 ---
