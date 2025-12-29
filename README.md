@@ -239,7 +239,7 @@ The counseling channel is operated using the **Tawk Chat API**, enabling secure 
 - React
 - TypeScript
 - Tailwind CSS
-- Resend, Tawk Email API
+- Resend Email API, Tawk.to Chat Widget
 - Mobile-first responsive UI
 
 ---
@@ -258,7 +258,13 @@ Used to process structured parent inquiries submitted through the contact form.
 
 The API is connected through a **Next.js App Router server route**.
 
+### 2) Tawk.to — Chat Counseling Channel
 
+Used to provide a real-time counseling communication channel outside of class time.
+
+- supports 1:1 chat-based support
+- enables timely follow-up for participant concerns
+- strengthens trust and continuity of communication
 
 
 ## Project Structure
