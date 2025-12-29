@@ -12,7 +12,7 @@ The website was designed to help parents and participants:
 
 The platform prioritizes **transparency, accessibility, and community trust** rather than a commercial marketing tone.
 
-<img width="800" height="570" alt="image" src="https://github.com/user-attachments/assets/b20d695d-46a8-4d52-b527-bb9f0cdc5edf" />
+
 
 
 
@@ -184,15 +184,13 @@ The platform was developed by balancing:
 ### Training Program Pages
 Pages introducing program offerings across elementary, middle, and high school groups, including a **Free Class participation track** designed to reduce financial barriers and expand access for under-resourced participants.
 
-<img src="./home1.gif" width="66%" />
-
 
 ---
 
 ### Announcements
 A centralized archive of academy notices and activity records from real operational periods, improving program transparency and allowing parents to track updates and history over time.
 
-<img src="./announcement.gif" width="66%" />
+
 
 ---
 
@@ -200,7 +198,7 @@ A centralized archive of academy notices and activity records from real operatio
 ### Class Schedule Page
 Provides weekly class schedules and facility availability information so that families can easily confirm training times and participation logistics.
 
-<img src="./schedule.gif" width="66%" />
+
 
 ---
 
@@ -209,7 +207,7 @@ A structured inquiry form connected to a server API route, enabling parents to s
 This feature is implemented using the **Resend Email API**, which delivers structured inquiry messages to the academy email account through a Next.js server route.
 
 
-<img src="./contact.gif" width="66%" />
+
 
 ---
 
@@ -226,10 +224,10 @@ The counseling channel is operated using the **Tawk Chat API**, enabling secure 
 ---
 
 ### Chat Counseling — Send
-<img src="./chat1.gif" width="66%" />
+
 
 ### Chat Counseling — Receive
-<img src="./chat2.gif" width="66%" />
+
 
 ---
 
