@@ -14,6 +14,14 @@ The platform prioritizes **transparency, accessibility, and community trust** ra
 
 <img width="1180" height="528" alt="image" src="https://github.com/user-attachments/assets/90fff905-9daf-4b1d-bfd5-9ee10c8cc49e" />
 
+---
+
+<h2 align="center">
+  <a href="https://www.ljmbasketball.com">
+    <b>Go To LJM Basketball Academy Website</b>
+  </a>
+</h2>
+
 
 ---
 
