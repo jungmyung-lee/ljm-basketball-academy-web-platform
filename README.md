@@ -131,8 +131,6 @@ Roles of the channel:
 - reduced psychological burden
 - strengthened trust between participants and staff
 
-This channel contributed to **improved emotional stability and healthier class adaptation experiences**.
-
 ---
 
 ### 4) Human-Centered Technical Design
